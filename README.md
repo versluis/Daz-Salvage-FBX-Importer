@@ -15,4 +15,5 @@ I don't have the source code, only this pre-compiled binary I'm allowed to distr
 # Future Development
 Code from this project has been shared with the Daz Dev Team, who are actively working in imprioving the built-in Daz Studio FBX importer. 
 The first version to include such improvements is Daz Studio 4.21.
+
 Development is ongoing in the official open source FBX repo: https://github.com/daz3d/StudioFbxImporter
