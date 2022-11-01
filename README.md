@@ -7,10 +7,10 @@ This handy little tool was written by studets of Jeff Salvage's class as a year 
 I don't have the source code, only this pre-compiled binary I'm allowed to distribute to whoever wants to try this tool.
 
 # Usage
-Close Daz Studio
-Copy the included DLL file into the plugins directory
-Start Daz Studio and find an additional "Import FBX" option on the main menu
-Use the new menu to open an FBX file and follow the instructions
+1. Close Daz Studio
+2. Copy the included DLL file into the plugins directory
+3. Start Daz Studio and find an additional "Import FBX" option on the main menu
+4. Use the new menu to open an FBX file and follow the instructions
 
 # Future Development
 Code from this project has been shared with the Daz Dev Team, who are actively working in imprioving the built-in Daz Studio FBX importer. 
