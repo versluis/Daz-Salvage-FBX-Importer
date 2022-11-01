@@ -3,12 +3,12 @@ A proprietay FBX Importer for Daz Studio that works better/differenty than the b
 It can import cameras, objects and materials often with better restults than the native importer can.
 Animations are currently not supported.
 
-This handy little tool was written by studets of Jeff Salvage's class as a year end project at Drexel University in 2022. 
+This handy little tool was written by studets of Professor Jeff Salvage's class as a year end project at Drexel University in 2022. 
 I don't have the source code, only this pre-compiled binary I'm allowed to distribute to whoever wants to try this tool.
 
 # Usage
 1. Close Daz Studio
-2. Copy the included DLL file into the plugins directory
+2. Copy the FbxImporter folder and contents into the plugins directory
 3. Start Daz Studio and find an additional "Import FBX" option on the main menu
 4. Use the new menu to open an FBX file and follow the instructions
 
